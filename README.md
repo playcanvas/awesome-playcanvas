@@ -16,6 +16,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
   - [Augmented Reality](#augmented-reality)
   - [Editor Extensions](#editor-extensions)
   - [Physics](#physics)
+  - [REST API](#rest-api)
   - [Tweening](#tweening)
   - [Utilities](#utilities)
 - [Advertising](#advertising)
@@ -75,6 +76,10 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ### Physics
 
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js)
+
+### REST API
+
+- [REST API wrapper for Node](https://github.com/yushimatenjin/playcanvas-node)
 
 ### Tweening
 
