@@ -13,7 +13,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Tutorials](#tutorials)
 - [Extensions and Integrations](#extensions-and-integrations)
   - [2D](#2d)
-  - [Augmented Reality](#augmented--reality)
+  - [Augmented Reality](#augmented-reality)
   - [Editor Extensions](#editor-extensions)
   - [Physics](#physics)
   - [Tweening](#tweening)
@@ -29,7 +29,6 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Visualization](#visualization)
   - [Automotive](#automotive)
   - [Configurators](#configurators)
-- [Contributing](#contributing)
 
 ## PlayCanvas
 
@@ -40,7 +39,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ## Community
 
-- [Discord](https://discord.gg/tjJWEHT)
+- [Discord Server](https://discord.gg/tjJWEHT)
 - [Forum](https://forum.playcanvas.com/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 - [Twitter](https://twitter.com/playcanvas)
@@ -83,11 +82,22 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 - [Sublime Text Autocompletion for PlayCanvas API](https://github.com/playcanvas/sublime-completions)
 
+## Advertising
+
+### Playable Ads
+
+- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena)
+
+### Digital out of Home
+
+- [DOOH Invaders](https://vimeo.com/136313614)
+- [Ride Along 2](https://vimeo.com/152996271)
+- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A)
+
 ## Games
 
 ### Browser Games
 
-- [Blast Arena](http://blastarena.io/)
 - [Bomb Town](http://bomb.town/)
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code)
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/)
@@ -99,13 +109,11 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/)
 - [Robostorm](https://robostorm.io/)
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/)
-- [TANX](https://tanx.io/)
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/)
 
 ### Facebook Instant Games
 
 - [Archery 3D](https://www.facebook.com/instantgames/2236502786367605/)
-- [Basketball Against Friends](https://apps.facebook.com/basketball-af)
 - [Box Squad: Paper Golf](https://www.facebook.com/boxsquadpapergolf/)
 - [Golden Boot](https://www.facebook.com/PlayGoldenBoot/)
 - [Golf Smash](https://www.facebook.com/instantgames/play/1970975726314259/)
@@ -119,18 +127,6 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ### Snap Games
 
 - [Snap Games Support](https://support.snapchat.com/en-GB/a/games)
-
-## Advertising
-
-### Playable Ads
-
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena)
-
-### Digital Out of Home
-
-- [DOOH Invaders](https://vimeo.com/136313614)
-- [Ride Along 2](https://vimeo.com/152996271)
-- [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A)
 
 ## Technical Demos
 
@@ -163,3 +159,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
