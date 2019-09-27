@@ -6,12 +6,12 @@
   "description": "PlayCanvas Awesome List",
   "keywords": [
     "awesome",
-    "list",
-    "playcanvas"
+    "awesome-list",
+    "playcanvas",
+    "webgl"
   ],
-  "main": "index.js",
   "repository": "https://github.com/playcanvas/awesome-playcanvas",
-  "license": "MIT",
+  "license": "CC0",
   "devDependencies": {
     "awesome-lint": "^0.11.0"
   },
