@@ -40,7 +40,9 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ## Community
 
 - [Discord Server](https://discord.gg/tjJWEHT)
+- [Facebook](https://www.facebook.com/playcanvas/)
 - [Forum](https://forum.playcanvas.com/)
+- [Reddit](https://www.reddit.com/r/PlayCanvas/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 - [Twitter](https://twitter.com/playcanvas)
 
