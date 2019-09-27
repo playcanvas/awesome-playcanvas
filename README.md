@@ -36,6 +36,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 - [Editor](https://playcanvas.com/)
 - [Engine Source](https://github.com/playcanvas/engine)
+- [NPM Package](https://www.npmjs.com/package/playcanvas)
 - [Reference](https://developer.playcanvas.com/en/api/)
 - [User Manual](https://developer.playcanvas.com/en/user-manual/)
 
