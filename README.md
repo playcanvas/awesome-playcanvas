@@ -145,6 +145,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 - [After the Flood](https://playcanv.as/p/44MRmJRU/)
 - [Casino](https://playcanv.as/p/LpmXGUe6/)
+- [Global Illumination](https://playcanv.as/p/ZV4PW6wr/)
 - [Seemore](https://playcanv.as/p/MflWvdTW/)
 - [Sponza](https://playcanv.as/p/txPePQvy/)
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/)
