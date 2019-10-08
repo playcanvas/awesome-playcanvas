@@ -111,6 +111,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Browser Games
 
+- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters)
 - [Bomb Town](http://bomb.town/)
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code)
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/)
