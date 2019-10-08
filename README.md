@@ -117,6 +117,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/)
 - [Ink Wars](https://inkwars.io/)
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp)
+- [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm)
 - [Mini Royale](https://miniroyale.io/)
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true)
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/)
