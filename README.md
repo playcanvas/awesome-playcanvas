@@ -53,7 +53,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 - [Bowling with PlayCanvas](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx)
 - [Building up a basic demo with PlayCanvas](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas)
-- [Create a Space Shooter With PlayCanvas](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066
+- [Create a Space Shooter With PlayCanvas](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066)
 - [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/)
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/)
 - [PlayCanvas Codepens](https://codepen.io/playcanvas/)
