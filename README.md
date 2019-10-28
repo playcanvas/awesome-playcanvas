@@ -77,7 +77,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ### Editor Extensions
 
 - [Editor Plus](https://chrome.google.com/webstore/detail/playcanvas-editor-plus/ebedfcjmndjbaboecddbbjjjoleddfap?hl=en) - Collection of extensions to the base PlayCanvas Editor.
-- [Pirron One Editor Extensions](https://pic.pirron-rodon.one) - Commercial collection of Editor externsions implementing post effects, terrain creation and more.
+- [Pirron One Editor Extensions](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 
 ### Physics
 
