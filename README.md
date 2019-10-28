@@ -34,11 +34,11 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ## PlayCanvas
 
-- [Editor](https://playcanvas.com/)
-- [Engine Source](https://github.com/playcanvas/engine)
-- [NPM Package](https://www.npmjs.com/package/playcanvas)
-- [Reference](https://developer.playcanvas.com/en/api/)
-- [User Manual](https://developer.playcanvas.com/en/user-manual/)
+- [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
+- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time license under MIT.
+- [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
+- [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
+- [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
 
 ## Community
 
@@ -100,11 +100,11 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Marketing Sites
 
-- [Billie Eilish](https://site.billieeilish.com/)
+- [Billie Eilish](https://site.billieeilish.com/) - Billie's bedroom recreated in WebGL.
 
 ### Playable Ads
 
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena)
+- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 
 ### Digital out of Home
 
