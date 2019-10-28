@@ -54,7 +54,6 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Engine-Only
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
-- [PlayCanvas Codepens](https://codepen.io/playcanvas/) - Simple use cases of the PlayCanvas engine.
 
 ### Editor
 - [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
@@ -89,7 +88,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Tweening
 
-- [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - PlayCanvas' official tween animation plugin.
+- [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Utilities
@@ -123,7 +122,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
-- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - LeapFrog's educational 3D hub.
+- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - 3D educational hub.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 - [Mini Royale](https://miniroyale.io/) - Classic Battle Royale gameplay.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
