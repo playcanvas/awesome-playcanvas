@@ -52,13 +52,16 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ## Tutorials
 
-- [Bowling with PlayCanvas](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx)
-- [Building up a basic demo with PlayCanvas](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas)
-- [Create a Space Shooter With PlayCanvas](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066)
-- [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/)
-- [Official Tutorials](https://developer.playcanvas.com/en/tutorials/)
-- [PlayCanvas Codepens](https://codepen.io/playcanvas/)
-- [Playing in Canvas](http://pirron.one/playingincanvas/)
+### Engine-Only
+- [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
+- [PlayCanvas Codepens](https://codepen.io/playcanvas/) - Simple use cases of the PlayCanvas engine.
+
+### Editor
+- [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
+- [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
+- [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) - CodeMahal's PlayCanvas training series.
+- [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
+- [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One's PlayCanvas themed blog.
 
 ## Extensions and Integrations
 
@@ -113,66 +116,65 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Browser Games
 
-- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters)
-- [Bomb Town](http://bomb.town/)
-- [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code)
-- [Flappy Bird](https://playcanv.as/p/2OlkUaxF/)
-- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/)
-- [Ink Wars](https://inkwars.io/)
-- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp)
-- [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm)
-- [Mini Royale](https://miniroyale.io/)
-- [Monopoly](http://benbean.openode.io/monopoly-io/?play=true)
-- [Orbital Survival](https://playcanv.as/p/3G3RnfUz/)
-- [Robostorm](https://robostorm.io/)
-- [SWOOOP](https://playcanv.as/p/JtL2iqIH/)
-- [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/)
+- [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
+- [Bomb Town](http://bomb.town/) - MMO Bomberman clone.
+- [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learning programming fundamentals with Disney's Moana.
+- [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - The classic casual game.
+- [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
+- [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
+- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - LeapFrog's educational 3D hub.
+- [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
+- [Mini Royale](https://miniroyale.io/) - Classic Battle Royale gameplay.
+- [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
+- [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
+- [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
+- [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
+- [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
 
 ### Facebook Instant Games
 
-- [Archery 3D](https://www.facebook.com/instantgames/2236502786367605/)
-- [Box Squad: Paper Golf](https://www.facebook.com/boxsquadpapergolf/)
-- [Golden Boot](https://www.facebook.com/PlayGoldenBoot/)
-- [Golf Smash](https://www.facebook.com/instantgames/play/1970975726314259/)
-- [Master Archer](https://www.facebook.com/instantgames/1315812941823883/)
-- [Kaburin! Ball](https://www.facebook.com/KaburinBall/)
-- [Kaburin! Dodge](https://www.facebook.com/KaburinDodge/)
-- [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/)
-- [Shuffle Cats Mini](https://www.facebook.com/ShuffleCatsMini/)
-- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/)
+- [Archery 3D](https://www.facebook.com/instantgames/2236502786367605/) - Archery simulator.
+- [Box Squad: Paper Golf](https://www.facebook.com/boxsquadpapergolf/) - Mini-golf game.
+- [Golden Boot](https://www.facebook.com/PlayGoldenBoot/) - Penalty kick game.
+- [Master Archer](https://www.facebook.com/instantgames/1315812941823883/) - Shoot the fruit from the top of Bob's head.
+- [Kaburin! Ball](https://www.facebook.com/KaburinBall/) - Roll the ball to collect the coins.
+- [Kaburin! Dodge](https://www.facebook.com/KaburinDodge/) - Avoid objects raining down from the sky.
+- [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) - Sandbox voxel-building game.
+- [Shuffle Cats Mini](https://www.facebook.com/ShuffleCatsMini/) - Flick cards to hit the targets.
+- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/) - Run and jump in the 2D endless runner.
 
 ### Snap Games
 
-- [Snap Games Support](https://support.snapchat.com/en-GB/a/games)
+- [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
 
 ## Technical Demos
 
-- [After the Flood](https://playcanv.as/p/44MRmJRU/)
-- [Casino](https://playcanv.as/p/LpmXGUe6/)
-- [Global Illumination](https://playcanv.as/p/ZV4PW6wr/)
-- [Seemore](https://playcanv.as/p/MflWvdTW/)
-- [Sponza](https://playcanv.as/p/txPePQvy/)
-- [Star-Lord](https://playcanv.as/p/SA7hVBLt/)
-- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv)
+- [After the Flood](https://playcanv.as/p/44MRmJRU/) - Collaboration with Mozilla to promote WebGL 2.
+- [Casino](https://playcanv.as/p/LpmXGUe6/) - Phsically rendered 3D casino environment.
+- [Global Illumination](https://playcanv.as/p/ZV4PW6wr/) - GI approximation using interpolated lightmaps.
+- [Seemore](https://playcanv.as/p/MflWvdTW/) - Collaboration with ARM to promote mobile WebGL.
+- [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
+- [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
+- [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
 
 ## Visualization
 
 ### Automotive
 
-- [BMW i8](http://car.playcanvas.com)
-- [DAB Motors](https://dabmotors.com/configurator/)
-- [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/)
-- [Polaris RZR](https://rzr.polaris.com/en-us/build-model/)
+- [BMW i8](http://car.playcanvas.com) - Car visualizer.
+- [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
+- [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
+- [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
 ### Configurators
 
-- [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/)
-- [Call of Duty: Gunsmith](http://gun.playcanvas.com/)
-- [Elfa Closets](http://elfa.com/sv-se/planner)
-- [iPhone 6](http://phone.playcanvas.com)
-- [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung)
-- [Toll Brother Kitchens](https://3d.tollbrothers.com/kitchen-visualizer/)
-- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/)
+- [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
+- [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
+- [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
+- [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
+- [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
+- [Toll Brother Kitchens](https://3d.tollbrothers.com/kitchen-visualizer/) - Kitchen configurator.
+- [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
 ## Contributing
 
