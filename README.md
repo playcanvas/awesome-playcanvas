@@ -118,8 +118,8 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 - [Bomb Town](http://bomb.town/) - MMO Bomberman clone.
-- [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learning programming fundamentals with Disney's Moana.
-- [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - The classic casual game.
+- [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
+- [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Addictive casual game.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - LeapFrog's educational 3D hub.
