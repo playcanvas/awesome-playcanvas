@@ -1,5 +1,7 @@
 # Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
+
 A categorized, community-driven collection of high-quality awesome PlayCanvas assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
 Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
