@@ -1,12 +1,12 @@
 # Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
-
-A categorized, community-driven collection of high-quality awesome PlayCanvas assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
-
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
-
-Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanvas/graphs/contributors), this wouldn't be possible without you!
+> [<img src="playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
+>
+> [PlayCanvas](https://playcanvas.com/) is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
+>
+> This list is a curated collection of awesome resources, tools, tutorials, and projects using the PlayCanvas engine to help developers make _awesome_ games, conforming to the [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
+>
+> Contributions _very welcome_ but first see [Contributing](#contributing).
 
 ## Contents
 
