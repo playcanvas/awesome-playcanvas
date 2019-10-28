@@ -59,7 +59,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ### Editor
 - [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
 - [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
-- [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) - CodeMahal's PlayCanvas training series.
+- [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) - PlayCanvas training series.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One's PlayCanvas themed blog.
 
