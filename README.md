@@ -150,7 +150,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ## Technical Demos
 
 - [After the Flood](https://playcanv.as/p/44MRmJRU/) - Collaboration with Mozilla to promote WebGL 2.
-- [Casino](https://playcanv.as/p/LpmXGUe6/) - Phsically rendered 3D casino environment.
+- [Casino](https://playcanv.as/p/LpmXGUe6/) - Physically rendered 3D casino environment.
 - [Global Illumination](https://playcanv.as/p/ZV4PW6wr/) - GI approximation using interpolated lightmaps.
 - [Seemore](https://playcanv.as/p/MflWvdTW/) - Collaboration with ARM to promote mobile WebGL.
 - [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
