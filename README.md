@@ -35,7 +35,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ## PlayCanvas
 
 - [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time license under MIT.
+- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 - [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
