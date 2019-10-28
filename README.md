@@ -101,6 +101,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 ### Marketing Sites
 
 - [Billie Eilish](https://site.billieeilish.com/) - Billie's bedroom recreated in WebGL.
+- [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
 
 ### Playable Ads
 
@@ -173,7 +174,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
-- [Toll Brother Kitchens](https://3d.tollbrothers.com/kitchen-visualizer/) - Kitchen configurator.
+- [Toll Brothers Kitchens](https://3d.tollbrothers.com/kitchen-visualizer/) - Kitchen configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
 ## Contributing
