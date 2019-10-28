@@ -89,7 +89,7 @@ Thanks to all the [contributors](https://github.com/playcanvas/awesome-playcanva
 
 ### Tweening
 
-- [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - PlayCanvas
+- [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - PlayCanvas' official tween animation plugin.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 
 ### Utilities
