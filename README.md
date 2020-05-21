@@ -90,7 +90,7 @@
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - 3D educational hub.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
-- [Mini Royale](https://miniroyale.io/) - Classic Battle Royale gameplay.
+- [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
