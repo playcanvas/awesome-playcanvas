@@ -57,7 +57,6 @@
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
-- [Editor Plus](https://chrome.google.com/webstore/detail/playcanvas-editor-plus/ebedfcjmndjbaboecddbbjjjoleddfap?hl=en) - Collection of extensions to the base PlayCanvas Editor.
 - [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
 
