@@ -101,15 +101,11 @@
 ## Messenger Games
 
 - [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
-- [Archery 3D](https://www.facebook.com/instantgames/2236502786367605/) - Archery simulator.
-- [Box Squad: Paper Golf](https://www.facebook.com/boxsquadpapergolf/) - Mini-golf game.
-- [Golden Boot](https://www.facebook.com/PlayGoldenBoot/) - Penalty kick game.
-- [Master Archer](https://www.facebook.com/instantgames/1315812941823883/) - Shoot the fruit from the top of Bob's head.
-- [Kaburin! Ball](https://www.facebook.com/KaburinBall/) - Roll the ball to collect the coins.
-- [Kaburin! Dodge](https://www.facebook.com/KaburinDodge/) - Avoid objects raining down from the sky.
+- [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) - Archery simulator.
+- [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
+- [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
+- [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
 - [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) - Sandbox voxel-building game.
-- [Shuffle Cats Mini](https://www.facebook.com/ShuffleCatsMini/) - Flick cards to hit the targets.
-- [Wonder Woman](https://www.facebook.com/wonderwomanfilm/posts/670093776494156/) - Run and jump in the 2D endless runner.
 
 ## Automotive
 
