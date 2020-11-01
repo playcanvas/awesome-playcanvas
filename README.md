@@ -57,6 +57,7 @@
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
+- [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [Pirron One](https://pic.pirron-rodon.one) - Editor externsions implementing post effects, terrain creation and more.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
