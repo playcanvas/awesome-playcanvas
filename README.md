@@ -54,6 +54,7 @@
 - [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
+- [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
