@@ -114,6 +114,7 @@
 ## Automotive
 
 - [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
+- [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - Boat configurator.
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
