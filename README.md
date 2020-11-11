@@ -99,6 +99,7 @@
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
+- [Town Star](https://gala.games) - Online farming game build by the Creative Director of Farmville 2.
 - [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
 
