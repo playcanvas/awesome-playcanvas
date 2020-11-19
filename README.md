@@ -126,6 +126,7 @@
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
+- [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - Checkweigher machine visualizer.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
