@@ -130,7 +130,6 @@
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
-- [Toll Brothers Kitchens](https://3d.tollbrothers.com/kitchen-visualizer/) - Kitchen configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
 ## Contributing
