@@ -97,6 +97,7 @@
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
+- [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
