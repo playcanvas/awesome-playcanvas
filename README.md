@@ -108,6 +108,7 @@
 
 - [Snap Games Support](https://support.snapchat.com/en-GB/a/games) - Snapchat's gaming platform powered by PlayCanvas.
 - [Archery 3D](https://www.facebook.com/instantgames/play/2236502786367605/) - Archery simulator.
+- [GameBytes](https://apps.apple.com/us/app/gamebytes-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
 - [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
