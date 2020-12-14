@@ -135,6 +135,11 @@
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
+## AR/VR/XR
+
+- [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage for Karsten Weil.
+- [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
