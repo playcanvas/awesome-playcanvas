@@ -19,8 +19,8 @@
 - [Browser Games](#browser-games)
 - [Messenger Games](#messenger-games)
 - [Automotive](#automotive)
-- [Configurators](#product-configurators)
-- [XR/AR/VR](#xrarvr)
+- [Product Configurators](#product-configurators)
+- [AR/VR/XR](#arvrxr)
 
 ## PlayCanvas
 
