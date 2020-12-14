@@ -19,7 +19,8 @@
 - [Browser Games](#browser-games)
 - [Messenger Games](#messenger-games)
 - [Automotive](#automotive)
-- [Configurators](#configurators)
+- [Configurators](#product-configurators)
+- [XR/AR/VR](#xrarvr)
 
 ## PlayCanvas
 
@@ -124,7 +125,7 @@
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
-## Product Configurators and Visualizers
+## Product Configurators
 
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
