@@ -123,6 +123,7 @@
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
+- [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
 ## Product Configurators
