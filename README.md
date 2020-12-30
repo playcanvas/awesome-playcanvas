@@ -128,6 +128,7 @@
 
 ## Product Configurators
 
+- [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
