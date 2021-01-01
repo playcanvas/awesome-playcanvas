@@ -17,6 +17,7 @@
 - [Technical Demos](#technical-demos)
 - [Advertising](#advertising)
 - [Browser Games](#browser-games)
+- [IO Games](#io-games)
 - [Messenger Games](#messenger-games)
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
@@ -87,24 +88,26 @@
 ## Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
-- [Bomb Town](http://bomb.town/) - MMO Bomberman game.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
-- [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - 3D educational hub.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
-- [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Monopoly](http://benbean.openode.io/monopoly-io/?play=true) - The classic boardgame recreated in a 3D video game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
-- [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
-- [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
-- [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
+
+## IO Games
+
+- [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
+- [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
+- [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
+- [TANX](https://tanx.io) - Online multiplayer tank battle game.
+- [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
 
 ## Messenger Games
 
