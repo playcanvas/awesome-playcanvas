@@ -106,9 +106,9 @@
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
+- [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down Multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
-- [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down Multiplayer shooter.
 
 ## Messenger Games
 
