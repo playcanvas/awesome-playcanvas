@@ -78,6 +78,7 @@
 ## Advertising
 
 - [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game.
+- [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
@@ -135,7 +136,6 @@
 - [3D Plans](https://3dplans.com) - Virtual tours and interactive maps for the property market.
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
-- [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - Checkweigher machine visualizer.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
