@@ -22,7 +22,6 @@
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
-- [License](#license)
 
 ## PlayCanvas
 
@@ -153,7 +152,3 @@
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
