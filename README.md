@@ -131,6 +131,7 @@
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
+- [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 - [Polaris RZR](https://rzr.polaris.com/en-us/build-model/) - Off-road vehicle configurator.
 
