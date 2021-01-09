@@ -1,6 +1,6 @@
 # Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [<img src="playcanvas-logo.png" align="right" width="100">](https://playcanvas.com)
+> <img src="playcanvas-logo.png" align="right" width="100">
 >
 > [PlayCanvas](https://playcanvas.com/) is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
 >
@@ -22,6 +22,7 @@
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
+- [License](#license)
 
 ## PlayCanvas
 

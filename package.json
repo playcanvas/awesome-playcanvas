@@ -16,6 +16,6 @@
     "awesome-lint": "^0.17.1"
   },
   "scripts": {
-    "test": "awesome-lint"
+    "test": "awesome-lint https://github.com/playcanvas/awesome-playcanvas"
   }
 }
