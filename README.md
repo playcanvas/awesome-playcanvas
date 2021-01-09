@@ -80,7 +80,7 @@
 ## Advertising
 
 - [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
-- [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game.
+- [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
