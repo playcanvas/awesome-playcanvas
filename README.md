@@ -26,8 +26,10 @@
 ## PlayCanvas
 
 - [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine Source](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+- [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
+- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
+- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://developer.playcanvas.com/en/api/) - API reference manual for the engine run-time.
 - [User Manual](https://developer.playcanvas.com/en/user-manual/) - PlayCanvas user guide.
 
