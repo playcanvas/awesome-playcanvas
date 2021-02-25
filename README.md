@@ -100,6 +100,7 @@
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 - [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 - [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
+- [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
