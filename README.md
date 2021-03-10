@@ -104,6 +104,7 @@
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
+- [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
