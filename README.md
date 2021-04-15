@@ -51,6 +51,7 @@
 - [Game Design with PlayCanvas and JavaScript](https://www.codemahal.com/tutorials/playcanvas/) - PlayCanvas training series.
 - [MDN tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
 - [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
+- [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - Creating high-end artwork for vehicle configurators with PlayCanvas and Substance.
 - [Playing in Canvas](http://pirron.one/playingincanvas/) - Pirron One's PlayCanvas themed blog.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics based game.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
