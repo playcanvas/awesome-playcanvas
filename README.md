@@ -22,6 +22,7 @@
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
+- [Virtual Events](#virtual-events)
 
 ## PlayCanvas
 
@@ -156,6 +157,10 @@
 
 - [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage for Karsten Weil.
 - [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+
+## Virtual Events
+
+- [Party Space](https://www.party.space/) - Virtual events platform.
 
 ## Contributing
 
