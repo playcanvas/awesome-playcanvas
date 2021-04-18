@@ -155,8 +155,9 @@
 
 ## AR/VR/XR
 
-- [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage for Karsten Weil.
-- [WebXR VR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
+- [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
+- [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
 
 ## Virtual Events
 
