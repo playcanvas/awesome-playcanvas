@@ -135,7 +135,7 @@
 - [Airstream Basecamp](https://www.airstream.com/travel-trailers/airstream-basecamp-3d-experience/) - Travel trailer visualizer.
 - [Bennington Pontoon Boats](https://www.benningtonmarine.com/en-us/build-model/) - Boat configurator.
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
-- [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
+- [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator with [Substance Painter workflow writeup](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/).
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
