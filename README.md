@@ -99,7 +99,6 @@
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
-- [LeapFrog Academy](https://www.leapfrog.com/en-us/app-center/everywhere/landing.jsp) - 3D educational hub.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
 - [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 - [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
