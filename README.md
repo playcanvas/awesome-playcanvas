@@ -162,6 +162,10 @@
 
 - [Party Space](https://www.party.space/) - Virtual events platform.
 
+## Experiences
+
+- [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - An interactive web-based opera experience created by Dumbworld from the Royal Opera House.
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
