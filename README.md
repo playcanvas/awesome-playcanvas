@@ -86,9 +86,10 @@
 - [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
-- [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
+- [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
+- [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - An interactive web-based opera experience created by Dumbworld from the Royal Opera House.
+- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 
