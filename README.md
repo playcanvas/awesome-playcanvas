@@ -113,6 +113,7 @@
 
 ## IO Games
 
+- [Bullet Bonanza](https://www.kiloo.com/bullet-bonanza/) - Fast paced, high fidelity, 3D Multiplayer FPS game.
 - [Ink Wars](https://inkwars.io/) - Real-time multiplayer game where you paint the neighborhood to win.
 - [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
