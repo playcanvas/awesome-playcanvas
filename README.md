@@ -97,17 +97,30 @@
 ## Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
+- [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
+- [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
+- [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
+- [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
+- [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Galaxies: Combat](https://playcanv.as/p/Ikq6Uk6A/) - Carefully select power ups to defeat waves of hostile ships.
+- [Garden Bloom](https://play.famobi.com/garden-bloom) - Garden themed 2D match 3 game.
+- [Garden Match 3D](https://play.famobi.com/garden-match-3d) - 3D match 3 game.
 - [Geometry Run](https://www.gamee.com/game/geometryrun) - Stylized endless runner built from geometric shapes.
+- [Hoop Royale](https://play.famobi.com/hoop-royale) - Maneuver the ring around the ball.
 - [Lego Jurassic World: Off-road Race](https://www.toggo.de/spiele/jurassic-world/jurassic-world-das-gelaenderennen-6727.htm) - Dinosaurs, LEGO and vehicle stunts.
+- [Mahjong World](https://play.famobi.com/mahjong-world) - 3D Mahjong puzzle game.
 - [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
 - [Monopoly](https://benbean.tech/monopoly-io/) - The classic boardgame recreated in a 3D video game.
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
+- [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
+- [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
+- [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 - [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
+- [TNT Bomb](https://play.famobi.com/tnt-bomb) - Destroy buildings and structures with explosive power ups.
 - [SWOOOP](https://playcanv.as/p/JtL2iqIH/) - Pick up gems in a bi-plane above a magical island.
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 - [Virtual Voodoo](http://www.miniclip.com/games/virtual-voodoo/en/) - Voodoo doll simulator.
