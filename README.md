@@ -133,7 +133,7 @@
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
-- [Venge](https://poki.com/en/g/venge-io) - 3D Multiplayer FPS shooter.
+- [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
 
 ## Messenger Games
 
