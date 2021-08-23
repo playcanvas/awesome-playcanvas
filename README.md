@@ -15,7 +15,7 @@
 - [Tutorials](#tutorials)
 - [Extensions and Utilities](#extensions-and-utilities)
 - [Technical Demos](#technical-demos)
-- [Advertising](#advertising)
+- [Interactive Experiences](#interactive-experiences)
 - [Browser Games](#browser-games)
 - [IO Games](#io-games)
 - [Messenger Games](#messenger-games)
@@ -81,7 +81,7 @@
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
 - [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slots machine.
 
-## Advertising
+## Interactive Experiences
 
 - [Adidas ZX Game](https://zx-game.de) - Branded rhythm action game (German).
 - [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
@@ -90,6 +90,7 @@
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 - [eBay Report](https://www.ebay-report.de/) - Stats and facts from eBay Germany.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
+- [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
