@@ -1,4 +1,4 @@
-# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > <img src="playcanvas-logo.png" align="right" width="100">
 >
@@ -179,6 +179,7 @@
 
 ## Blockchain/Crypto/NFT
 
+- [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
 ## Virtual Events
