@@ -145,7 +145,6 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Golden Boot](https://www.facebook.com/instantgames/play/267920816949420/) - Penalty kick game.
 - [Hoop Master](https://www.facebook.com/instantgames/play/188237332468920/) - Head to head basketball game.
 - [Master Archer](https://www.facebook.com/instantgames/play/1315812941823883/) - Shoot the fruit from the top of Bob's head.
-- [Let's Craft](https://www.facebook.com/instantgames/play/351725822100289/) - Sandbox voxel-building game.
 
 ## Automotive
 
