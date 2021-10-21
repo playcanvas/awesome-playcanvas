@@ -165,6 +165,7 @@ c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome
 - [Amisco Furniture](https://www.amisco.com/en_us/uprightstool) - Interactive 3D furniture configurator.
 - [Aritco Home Lifts](http://www.aritcohomelifts.com/build-your-lift/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
+- [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
 - [Sesotec Nexwey](https://www.sesotec.com/na/en-US/lp/nexwey) - Checkweigher machine visualizer.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
