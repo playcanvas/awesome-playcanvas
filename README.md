@@ -1,4 +1,4 @@
-c# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome PlayCanvas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > <img src="playcanvas-logo.png" align="right" width="100">
 >
