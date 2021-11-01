@@ -181,6 +181,7 @@
 
 ## Blockchain/Crypto/NFT
 
+- [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
