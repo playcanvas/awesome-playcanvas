@@ -136,6 +136,7 @@
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
+- [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
 
 ## Messenger Games
 
