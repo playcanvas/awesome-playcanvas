@@ -23,7 +23,6 @@
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
 - [Blockchain/Crypto/NFT](#blockchaincryptonft)
-- [Virtual Events](#virtual-events)
 
 ## PlayCanvas
 
@@ -93,6 +92,7 @@
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 - [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+- [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
@@ -189,10 +189,6 @@
 - [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
-
-## Virtual Events
-
-- [Party Space](https://www.party.space/) - Virtual events platform.
 
 ## Contributing
 
