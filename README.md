@@ -186,6 +186,7 @@
 ## Blockchain/Crypto/NFT
 
 - [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
+- [Doge Temple](https://www.dogetemple.io/) - Online microverse devoted to Dogecoin.
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [RareRooms](https://www.rarerooms.io/) - 3D virtual rooms for NFT collections.
 
