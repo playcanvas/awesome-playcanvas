@@ -132,6 +132,7 @@
 ## IO Games
 
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
+- [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
 - [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
