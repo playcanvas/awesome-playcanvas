@@ -2,7 +2,7 @@
 
 > <img src="playcanvas-logo.png" align="right" width="100">
 >
-> [PlayCanvas](https://playcanvas.com/) is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
+> PlayCanvas is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
 >
 > This list is a curated collection of awesome resources, tools, tutorials and projects using the PlayCanvas engine to help developers make _awesome_ games and visualizations.
 >
