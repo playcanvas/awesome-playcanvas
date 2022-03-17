@@ -134,7 +134,7 @@
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 - [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
-- [Mini Royale 2](https://miniroyale2.io/) - Battle Royale first person shooter.
+- [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
