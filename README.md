@@ -185,6 +185,7 @@
 - [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+- [VR Interaction Framework](https://playcanvas.com/project/873904/overview/vr-interaction-framework) - 6DOF Simple interaction framework for Oculus Quest.
 
 ## Blockchain/Crypto/NFT
 
