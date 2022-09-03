@@ -173,6 +173,7 @@
 - [Cibes Lifts](https://www.cibeslift.com/lift-configurator/) - Elevator configurator.
 - [Elfa Closets](http://elfa.com/sv-se/planner) - Closet configurator.
 - [Fjällräven Kånken](https://www.fjallraven.com/uk/en-gb/bags-gear/kanken/kanken-bags/kanken-me) - Backpack configurator.
+- [Iconic Nordic Rooms[(https://www.inr.se/planera-badrum/planera-badrum-verktyg-3d/) - Shower and sink configurators.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
