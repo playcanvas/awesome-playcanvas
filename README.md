@@ -141,6 +141,7 @@
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
+- [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 
 ## Messenger Games
 
@@ -159,6 +160,7 @@
 - [BMW i4 M50 Showcase](https://www.bmw.com/en/performance/electric-sports-car-BMWi4-M50-driving-dynamic-test.html) - Blog article that embeds a technical overview of the new i4.
 - [BMW i8](http://car.playcanvas.com) - Car visualizer.
 - [DAB Motors](https://dabmotors.com/configurator/) - Motorcycle configurator.
+- [Honda Civic Type R](https://www.honda.co.jp/CIVICTYPE-R/configurator/) - Configurator (Japanese).
 - [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - Configurator technology demonstration from Visionaries777.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
