@@ -140,6 +140,7 @@
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
+- [Tribals](https://tribals.io/) - First-person multiplayer survival game.
 - [Venge](https://venge.io/) - 3D Multiplayer FPS shooter.
 - [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 
