@@ -92,7 +92,7 @@
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
-- [MMX Racing](http://mmx.playcanvas.com/?truck=johncena) - Interactive 3D ad for a popular mobile game.
+- [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
 - [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
