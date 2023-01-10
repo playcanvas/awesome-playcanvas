@@ -166,6 +166,7 @@
 - [Husqvarna](https://webxr.s3-accelerate.amazonaws.com/Husqvarna/index.html) - Configurator technology demonstration from Visionaries777.
 - [Indian Motorcycles](https://www.indianmotorcycle.com/en-us/scout-bobber/build-color/) - Motorcycle configurator.
 - [Infiniti Experience](https://beijing.infiniti-experience.com/) - Explore the 2020 Infiniti range (Chinese).
+- [Kia Niro Hybrid](https://www.kia.com/kr/buy/build-your-car/build/trim?rcCode=KRSG022) - Kia configurator (Korean).
 - [Kia Virtual Experience](https://www.kiavirtualexperience.com/) - Explore Kia's latest line of cars.
 - [Mercedes AMG GT C](https://playcanv.as/p/4e391c28/) - Car visualizer.
 - [Nissan Ariya](https://saas.nissan.co.jp/clubariya/login/) - Explore Nissan's Arriya in 3D (Japanese - requires sign in).
