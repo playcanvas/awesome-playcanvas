@@ -61,6 +61,7 @@
 ## Extensions and Utilities
 
 - [8th Wall](https://www.8thwall.com/docs/web/#getting-started-with-playcanvas) - Markerless AR runtime.
+- [PlayBuild](https://github.com/wearekuva/playbuild) - A integrated bundler and package manager with support for TypeScript & JSX
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
