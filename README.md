@@ -122,7 +122,6 @@
 - [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
-- [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
 - [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 - [Star Stable](https://www.starstable.com/en/register) - Character registration portal for popular horse game.
@@ -140,6 +139,7 @@
 - [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first person shooter.
 - [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
+- [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time. 
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
 - [Tribals](https://tribals.io/) - First-person multiplayer survival game.
