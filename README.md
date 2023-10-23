@@ -147,6 +147,7 @@
 - [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza) - Multiplayer restaurant game.
 - [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
+- [GUMMYZ](https://gummyz.fitfuns.com) - multiplayer combat game
 
 ## Messenger Games
 
