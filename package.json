@@ -13,7 +13,7 @@
   "repository": "https://github.com/playcanvas/awesome-playcanvas",
   "license": "CC0",
   "devDependencies": {
-    "awesome-lint": "^0.18.6"
+    "awesome-lint": "^1.0.1"
   },
   "scripts": {
     "test": "awesome-lint https://github.com/playcanvas/awesome-playcanvas"
