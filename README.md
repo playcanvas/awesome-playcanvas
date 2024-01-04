@@ -85,7 +85,6 @@
 
 ## Interactive Experiences
 
-- [Ally Racing](https://www.allyracer.com/) - Retro NASCAR racing adver-game for Ally Bank.
 - [Call of Duty: Gunsmith](http://gun.playcanvas.com/) - Promotional 3D experience themed on Call of Duty.
 - [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
