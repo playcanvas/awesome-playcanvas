@@ -65,6 +65,7 @@
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARTollkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
+- [playcanvas-rest-api-tools](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
