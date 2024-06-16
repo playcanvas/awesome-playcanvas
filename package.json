@@ -7,8 +7,11 @@
   "keywords": [
     "awesome",
     "awesome-list",
+    "gltf",
     "playcanvas",
-    "webgl"
+    "webgl",
+    "webgpu",
+    "webxr"
   ],
   "repository": "https://github.com/playcanvas/awesome-playcanvas",
   "license": "CC0",
