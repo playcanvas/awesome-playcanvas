@@ -7,13 +7,16 @@
   "keywords": [
     "awesome",
     "awesome-list",
+    "gltf",
     "playcanvas",
-    "webgl"
+    "webgl",
+    "webgpu",
+    "webxr"
   ],
   "repository": "https://github.com/playcanvas/awesome-playcanvas",
   "license": "CC0",
   "devDependencies": {
-    "awesome-lint": "^1.0.1"
+    "awesome-lint": "^1.2.0"
   },
   "scripts": {
     "test": "awesome-lint https://github.com/playcanvas/awesome-playcanvas"
