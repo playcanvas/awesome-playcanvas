@@ -31,7 +31,7 @@
 - [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
 - [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
-- [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
+- [PCUI](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
 - [SuperSplat](https://superspl.at/) - Platform for editing and publishing 3D Gaussian Splats.
 - [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
