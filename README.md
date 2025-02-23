@@ -33,7 +33,7 @@
 - [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
 - [PCUI](http://playcanvas.github.io/pcui/) - Open source front-end framework used by the PlayCanvas toolset.
 - [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
-- [SuperSplat](https://playcanvas.com/supersplat/editor) - 3D Gassuian Splat Editor.
+- [SuperSplat](https://superspl.at/) - Platform for editing and publishing 3D Gaussian Splats.
 - [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
 - [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
