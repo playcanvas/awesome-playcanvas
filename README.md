@@ -31,7 +31,7 @@
 - [PlayCanvas Engine](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
 - [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based, real-time collaborative graphi Editor.
+- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
 - [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
