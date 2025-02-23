@@ -10,8 +10,9 @@
 
 ## Contents
 
-- [PlayCanvas](#playcanvas)
+- [PlayCanvas Products](#playcanvas-products)
 - [Community](#community)
+- [Documentation](#documentation)
 - [Tutorials](#tutorials)
 - [Extensions and Utilities](#extensions-and-utilities)
 - [Technical Demos](#technical-demos)
@@ -25,19 +26,16 @@
 - [AR/VR/XR](#arvrxr)
 - [Blockchain/Crypto/NFT](#blockchaincryptonft)
 
-## PlayCanvas
+## PlayCanvas Products
 
-- [Editor](https://playcanvas.com/) - Browser-based, real-time collaborative WebGL Editor.
-- [Engine](https://github.com/playcanvas/engine) - Full source to the PlayCanvas run-time licensed under MIT.
-- [glTF Viewer](https://playcanvas.com/viewer) - glTF 2.0 compliant model viewer.
-- [NPM Package](https://www.npmjs.com/package/playcanvas) - Node.js packages of the PlayCanvas engine run-time.
+- [PlayCanvas Engine](https://github.com/playcanvas/engine) - Open source JavaScript graphics application framework.
+- [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
+- [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
+- [PlayCanvas Editor](https://playcanvas.com/) - Browser-based, real-time collaborative graphi Editor.
+- [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
+- [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+- [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
 - [PCUI](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
-- [PlayCanvas React](https://github.com/playcanvas/react) - React wrapper for the PlayCanvas Engine.
-- [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Web Components wrapper for the PlayCanvas Engine.
-- [Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
-- [SuperSplat](https://superspl.at/) - Platform for editing and publishing 3D Gaussian Splats.
-- [Texture Tool](https://playcanvas.com/texture-tool) - Tool for reprojecting textures.
-- [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## Community
 
@@ -48,6 +46,11 @@
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 - [X](https://x.com/playcanvas)
+
+## Documentation
+
+- [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
+- [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
 
 ## Tutorials
 
