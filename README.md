@@ -102,6 +102,7 @@
 - [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
+- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
