@@ -44,7 +44,6 @@
 - [Forum](https://forum.playcanvas.com/)
 - [LinkedIn](https://www.linkedin.com/company/playcanvas)
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 - [X](https://x.com/playcanvas)
 
 ## Documentation
