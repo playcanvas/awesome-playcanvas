@@ -44,7 +44,6 @@
 - [Discord Server](https://discord.gg/RSaMRzg)
 - [Facebook](https://www.facebook.com/playcanvas/)
 - [HTML5GameDevs Forum](https://www.html5gamedevs.com/tags/playcanvas/)
-- [Openbase](https://openbase.com/js/playcanvas)
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/playcanvas)
 
