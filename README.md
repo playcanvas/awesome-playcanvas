@@ -45,6 +45,7 @@
 - [LinkedIn](https://www.linkedin.com/company/playcanvas)
 - [Reddit](https://www.reddit.com/r/PlayCanvas/)
 - [X](https://x.com/playcanvas)
+- [YouTube](https://www.youtube.com/@playcanvas)
 
 ## Documentation
 
