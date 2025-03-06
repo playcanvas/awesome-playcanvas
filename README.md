@@ -17,10 +17,11 @@
 - [Extensions and Utilities](#extensions-and-utilities)
 - [Technical Demos](#technical-demos)
 - [Interactive Experiences](#interactive-experiences)
-- [Browser Games](#browser-games)
-- [IO Games](#io-games)
-- [Messenger Games](#messenger-games)
-- [YouTube Playables](#youtube-playables)
+- [Games](games)
+  - [Browser Games](#browser-games)
+  - [IO Games](#io-games)
+  - [Messenger Games](#messenger-games)
+  - [YouTube Playables](#youtube-playables)
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
@@ -110,7 +111,9 @@
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
-## Browser Games
+## Games
+
+### Browser Games
 
 - [Beyond Bionic: Extreme Encounters](https://www.bbc.co.uk/cbbc/games/beyond-bionic-extreme-encounters) - Outdoor adventures in this game from the BBC.
 - [Bubble Tower 3D](https://play.famobi.com/bubble-tower-3d) - Old school bubbleshooter game.
@@ -151,7 +154,7 @@
 - [Town Star](https://gala.games) - Online farming game built by the Creative Director of Farmville 2.
 - [Virtual Voodoo](https://playcanv.as/p/tRUfwVg1/) - Voodoo doll simulator.
 
-## IO Games
+### IO Games
 
 - [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
@@ -170,11 +173,11 @@
 - [Warbands](https://www.warbands.io/) - 3D Multiplayer FPS shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
-## Messenger Games
+### Messenger Games
 
 - [GameWave](https://apps.apple.com/us/app/gamewave-games-for-imessage/id1506797690) - Multiplayer games for iMessage.
 
-## YouTube Playables
+### YouTube Playables
 
 - [Cannon Balls 3D](https://www.youtube.com/playables/UgkxtJBl0ZoeInS-4l5yzLRPqToF7zHv4dhr) - Use the cannon to destroy the various structures in this physics-based game.
 - [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
