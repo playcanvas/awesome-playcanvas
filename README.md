@@ -17,7 +17,7 @@
 - [Extensions and Utilities](#extensions-and-utilities)
 - [Technical Demos](#technical-demos)
 - [Interactive Experiences](#interactive-experiences)
-- [Games](games)
+- [Games](#games)
   - [Browser Games](#browser-games)
   - [IO Games](#io-games)
   - [Messenger Games](#messenger-games)
