@@ -25,6 +25,7 @@
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
 - [AR/VR/XR](#arvrxr)
+- [Generative AI](#generative-ai)
 - [Blockchain/Crypto/NFT](#blockchaincryptonft)
 
 ## PlayCanvas Products
@@ -230,6 +231,11 @@
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 - [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+
+## Generative AI
+
+- [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
+- [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
 
 ## Blockchain/Crypto/NFT
 
