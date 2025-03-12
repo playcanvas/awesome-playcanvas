@@ -126,6 +126,7 @@
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
+- [Fishing League](https://poki.com/en/g/fishing-league) - Fishing game by OnRush Studio.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
 - [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
