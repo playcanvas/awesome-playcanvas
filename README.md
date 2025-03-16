@@ -220,6 +220,7 @@
 - [Norqain](https://norqain.com/pages/watch-configurator) - Watch configurator.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
+- [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
