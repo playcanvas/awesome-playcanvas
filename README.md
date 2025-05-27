@@ -51,8 +51,8 @@
 
 ## Documentation
 
-- [API Reference](https://api.playcanvas.com/) - API reference manual for the engine run-time.
-- [User Manual](https://developer.playcanvas.com/user-manual/) - PlayCanvas user guide.
+- [API Reference](https://api.playcanvas.com/) - API Reference Site.
+- [Developer Site](https://developer.playcanvas.com/) - PlayCanvas Developer Site.
 
 ## Tutorials
 
