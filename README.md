@@ -24,7 +24,7 @@
   - [YouTube Playables](#youtube-playables)
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
-- [3D Gaussian Splatting](#gaussian-splatting)
+- [3D Gaussian Splatting](#3d-gaussian-splatting)
 - [AR/VR/XR](#arvrxr)
 - [Generative AI](#generative-ai)
 - [Blockchain/Crypto/NFT](#blockchaincryptonft)
