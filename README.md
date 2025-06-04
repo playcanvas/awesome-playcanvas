@@ -225,7 +225,7 @@
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
-## Gaussian Splatting
+## 3D Gaussian Splatting
 
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
