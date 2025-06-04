@@ -225,6 +225,13 @@
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
 - [Willab Gardens Greenhouses](http://www.vaxthusguiden.se/) - Greenhouse configurator.
 
+## Gaussian Splatting
+
+- [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
+- [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
+- [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
+
 ## AR/VR/XR
 
 - [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
@@ -233,13 +240,6 @@
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 - [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
-
-## Gaussian Splatting
-
-- [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
-- [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
-- [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
-- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
 ## Generative AI
 
