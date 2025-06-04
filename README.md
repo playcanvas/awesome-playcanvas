@@ -24,6 +24,7 @@
   - [YouTube Playables](#youtube-playables)
 - [Automotive](#automotive)
 - [Product Configurators](#product-configurators)
+- [3D Gaussian Splatting](#gaussian-splatting)
 - [AR/VR/XR](#arvrxr)
 - [Generative AI](#generative-ai)
 - [Blockchain/Crypto/NFT](#blockchaincryptonft)
@@ -107,7 +108,6 @@
 - [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
-- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
 - [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
@@ -233,6 +233,13 @@
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 - [Viverse](https://www.viverse.com/) - Open platform for virtual worlds and environments developed by HTC.
 - [WebXR Lab](https://playcanvas.com/project/446331/overview/webxr-vr-lab) - Sandbox for VR interaction experiments.
+
+## Gaussian Splatting
+
+- [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
+- [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
+- [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
+- [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 
 ## Generative AI
 
