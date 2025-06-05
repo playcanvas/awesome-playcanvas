@@ -228,6 +228,7 @@
 ## 3D Gaussian Splatting
 
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer.
+- [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
