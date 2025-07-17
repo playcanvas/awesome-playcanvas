@@ -227,6 +227,7 @@
 
 ## 3D Gaussian Splatting
 
+- [braintrance.net](https://www.braintrance.net/) - The platform to share and experience 3D memories
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
 - [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
