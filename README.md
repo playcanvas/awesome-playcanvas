@@ -265,6 +265,11 @@
 - [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
+## Hybrid (Browser/WebXR/VR)
+
+- [Camille World](https://cmworld.io) - Explore 3D worlds and play as puzzles.
+
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
