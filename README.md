@@ -151,6 +151,7 @@
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Scooter Xtreme](https://gamesnacks.com/games/scooterxtreme) - Casual scooter riding game.
 - [Slice Rush](https://play.famobi.com/slice-rush) - Take the knife and chop your way through the kitchen.
+- [Squid Dash](https://poki.com/en/g/squid-dash) - Help Squiddy get to the ocean.
 - [Stack Smash](https://play.famobi.com/stack-smash) - Destroy all platforms to get to the ground and win.
 - [Stickman Climb](https://poki.com/en/g/stickman-climb) - Physics based puzzle game.
 - [The Walking Dead: Those Beyond](https://twd.thosebeyond.io/) - A community survivor camp experience game.
