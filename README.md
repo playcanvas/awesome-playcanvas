@@ -162,6 +162,7 @@
 
 ### IO Games
 
+- [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
 - [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
 - [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast paced, high fidelity, 3D Multiplayer FPS game from Kiloo.
 - [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
