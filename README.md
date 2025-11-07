@@ -125,6 +125,7 @@
 - [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
 - [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 - [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
+- [Color Up](https://elanrastudios.com/games/colorup) - Climb up carefully and stay on the right colored boxes.
 - [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150 year anniversary.
 - [Conundrum](https://conundrum.fun) - A word game where you solve anagrams. Fast!
 - [Curve Ball 3D](https://play.famobi.com/curve-ball-3d) - 3D pong game.
