@@ -244,6 +244,7 @@
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
+- [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualisation.
 - [Nikon Creates](https://www.creates.nikon.com/access/#3dgs) - Scans of Nikon's studio space in Tokyo.
