@@ -259,6 +259,7 @@
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Splattr](https://splattr.app) - Create gaussian splats on the cloud.
+- [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
