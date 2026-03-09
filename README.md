@@ -51,7 +51,7 @@
 
 ## Documentation
 
-- [API Reference](https://api.playcanvas.com/) - API Reference Site.
+- [API Reference](https://api.playcanvas.com/) - Complete engine API documentation.
 - [Developer Site](https://developer.playcanvas.com/) - PlayCanvas Developer Site.
 
 ## Tutorials
@@ -77,10 +77,10 @@
 - [playcanvas-spine](https://github.com/playcanvas/playcanvas-spine) - Spine plugin for PlayCanvas for 2D animations.
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
-- [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas
+- [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
 - [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
-- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - VS Code Extension that can be used instead of the built-in Code Editor.
+- [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
 ## Technical Demos
 
@@ -243,7 +243,7 @@
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
 - [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
-- [GSplat Share](https://gsplat.org/) – Share your splats with optional time-limited and password-protected links.
+- [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
 - [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
