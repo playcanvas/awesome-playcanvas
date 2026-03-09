@@ -19,6 +19,6 @@
     "awesome-lint": "^2.2.3"
   },
   "scripts": {
-    "test": "awesome-lint https://github.com/playcanvas/awesome-playcanvas"
+    "test": "awesome-lint"
   }
 }
