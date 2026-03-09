@@ -15,4 +15,4 @@ jobs:
         with:
           node-version: 20
       - run: npm ci
-      - run: npx awesome-lint
+      - run: npm test
