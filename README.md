@@ -266,6 +266,7 @@
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 - [Voxelo](https://www.voxelo.ai/) - AI-powered studio turning product videos into realistic 3D digital twins.
+- [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
 
 ## AR/VR/XR
 
