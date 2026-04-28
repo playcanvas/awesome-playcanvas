@@ -259,6 +259,7 @@
 - [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
+- [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
 - [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
