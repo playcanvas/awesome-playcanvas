@@ -248,7 +248,7 @@
 - [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 - [homes.com](https://www.homes.com/property/5471-country-club-pkwy-san-jose-ca/jtpxcck89t92v/?dk=htcrxezf5771f&tab=-1) - Exterior views for residential property listings.
-- [LichtFeld Studio Landing Page](https://lichtfeld.io/) - Explore a splat trained by LichtFeld Studio.
+- [LichtFeld Studio Gallery](https://lichtfeld.io/showcase/) - Example scenes trained by LichtFeld Studio.
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
