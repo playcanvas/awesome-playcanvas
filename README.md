@@ -263,6 +263,7 @@
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 - [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
 - [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
+- [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
