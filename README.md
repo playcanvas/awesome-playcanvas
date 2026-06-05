@@ -268,6 +268,7 @@
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
 - [Sutro Tower](https://vincentwoo.com/3d/sutro_tower/) - Explore this 3D Gaussian Splat of San Francisco's communications tower.
 - [Tum Collegiate Church](https://ovrcast.eu/projects/TumCollegiate/) - Explore a key historical Polish landmark.
+- [UnrealTwin](https://www.unrealtwin.com/) - Turn Unreal scenes into a web link.
 - [vid2scene](https://vid2scene.com/) - Transform 2D video into immersive 3D scenes.
 - [Voxelo](https://www.voxelo.ai/) - AI-powered studio turning product videos into realistic 3D digital twins.
 - [Wildflow](https://wildflow.ai/) - Scanning the world's coral reefs as Gaussian splats.
