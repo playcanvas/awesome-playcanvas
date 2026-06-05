@@ -258,7 +258,7 @@
 - [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 - [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
 - [Reflct](https://www.reflct.app/) - Curate, manage and deploy 3DGS scenes online.
-- [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Digital twin platform.
+- [ScanMeNow](https://www.scanmenow.es/en/galeria.html) - Portable human 3DGS capture platform.
 - [Skyfall-GS](https://skyfall-gs.jayinnn.dev/) - Converts satellite images to explorable 3D urban scenes using the SuperSplat Viewer.
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 - [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
