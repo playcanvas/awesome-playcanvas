@@ -240,6 +240,7 @@
 - [2nd Swing](https://www.2ndswing.com/golf-clubs/drivers/ping-g440-max-driver/g440-max-dvr) - Golf retailer using splats for product visualization.
 - [4DV](https://www.4dv.ai/) - Impressive implementation of animated Gaussian splats (4DGS).
 - [Arrival Space](https://arrival.space/) - Social metaverse built on splat-based spaces.
+- [Braintrance](https://www.braintrance.net/) - A platform to share and experience 3D memories.
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
