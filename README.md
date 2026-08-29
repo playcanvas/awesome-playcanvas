@@ -259,6 +259,7 @@
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
 - [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
+- [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
 - [Primer on Gaussian Splatting](https://packet39.com/blog/a-primer-on-gaussian-splats/) - Blog article embedding the PlayCanvas SuperSplat Viewer.
 - [Real Horizons](https://realhorizons.ai/) - Transform video into 3D immersive tours.
