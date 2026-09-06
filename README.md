@@ -73,6 +73,7 @@
 - [Kinematic Character Controller](https://github.com/tatelax/playcanvas-kinematic-character-controller) - An open-source kinematic character controller.
 - [playcanvas-ar](https://github.com/playcanvas/playcanvas-ar) - Marker-based AR solution built on ARToolkit.
 - [playcanvas-node](https://github.com/yushimatenjin/playcanvas-node) - REST API wrapper for Node.js.
+- [playcanvas-opti-pixel](https://github.com/AlexAPPi/playcanvas-opti-pixel) - GPU instancing, LOD, BVH frustum culling, and occlusion culling.
 - [playcanvas-p2.js](https://github.com/playcanvas/playcanvas-p2.js) - An integration with the p2.js 2D physics engine.
 - [playcanvas-react-colyseus](https://github.com/JonasPfi/PlayCanvasReactColyseus) - Starter template for multiplayer games with React and Colyseus.
 - [playcanvas-rest-api-tools](https://github.com/playcanvas/playcanvas-rest-api-tools) - CLI tools built on the PlayCanvas REST API.
