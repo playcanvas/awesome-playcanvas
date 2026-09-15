@@ -94,6 +94,7 @@
 - [Sponza](https://playcanv.as/p/txPePQvy/) - Run-time lightmapped Sponza environment.
 - [Star-Lord](https://playcanv.as/p/SA7hVBLt/) - First ever PBR demo from PlayCanvas.
 - [Steampunk Slots](https://playcanv.as/p/nL1dYbMv) - Physically rendered slot machine.
+- [Water](https://marklundin.github.io/water/) - High fidelity water simulation with caustics.
 
 ## Interactive Experiences
 
