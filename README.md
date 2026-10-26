@@ -199,7 +199,6 @@
 - [Color Burst 3D](https://www.youtube.com/playables/UgkxcobZM_stIxOBW-bQwKcrUiYbg11g4x55) - Hit the colored wall matching the ball color.
 - [Farm Land](https://www.youtube.com/playables/Ugkxsk_eNi3xerLPa1SuoUIftBIWxzlTCbAN) - Grow produce to expand your land.
 - [Free Kick Football](https://www.youtube.com/playables/UgkxjX3-84ZFPZHSm99ZIsn9eqPQQSoWJPxS) - Curve the ball to score goals.
-- [Full Speed Racing](https://www.youtube.com/playables/UgkxbgLQk7KP4zQKHctwKY-XKtpJ_OBWL4aO) - Drive as far as you can before the time runs out.
 - [Om Nom Run](https://www.youtube.com/playables/UgkxiSWh_UPnG4BImBX7gI3KVDLxT2Wm1PiJ) - Endless runner.
 - [Scooter Xtreme](https://www.youtube.com/playables/UgkxeIG5erzthQsBVVs1sCMhJTrLdLAb7v5c) - Casual scooter riding game.
 - [Stack Bounce](https://www.youtube.com/playables/UgkxHHtsak1SC8mRGHMZewc4HzeAY3yhPPmJ) - Destroy all platforms to get to the ground and win.
