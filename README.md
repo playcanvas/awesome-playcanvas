@@ -59,14 +59,15 @@
 
 ## Tutorials
 
-- [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write-ups of 2 PlayCanvas visualization applications.
 - [Create a Bowling Game](https://www.gamefromscratch.com/post/2017/05/25/PlayCanvas-Engine-Revisited.aspx) - Create a physics-based bowling game.
 - [Create a Space Shooter](https://gamedevelopment.tutsplus.com/tutorials/create-a-space-shooter-with-playcanvas-part-1--cms-28066) - Recreate Asteroids in this Tutsplus tutorial.
 - [MDN Tutorial](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_on_the_web/Building_up_a_basic_demo_with_PlayCanvas) - Build up a basic demo with PlayCanvas.
-- [Official Tutorials](https://developer.playcanvas.com/en/tutorials/) - Large collection of official PlayCanvas tutorials.
+- [Official Tutorials](https://developer.playcanvas.com/tutorials/) - Large collection of official PlayCanvas tutorials.
 - [PlayCanvas and Substance](https://magazine.substance3d.com/high-end-renders-online-bike-configurator-substance/) - Creating high-end artwork for vehicle configurators with PlayCanvas and Substance.
+- [Publishing on Wavedash](https://developer.playcanvas.com/user-manual/publishing/wavedash/) - Official guide to publishing PlayCanvas games on Wavedash.
 - [Rescue the Lunar Lander](https://medium.com/@omar4ur/rescue-the-lunar-lander-a-coderdojo-tutorial-5217d463e26a) - Tutorial to make a simple physics-based game.
 - [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
+- [Vehicle and Interior Tutorials](https://3dground.net/en/articles/playcanvas-webgl/1) - Detailed write-ups of 2 PlayCanvas visualization applications.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 - [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
 - [YouTube Playables Template](https://github.com/google/web-game-samples/tree/main/playcanvas) - Official starter project for building YouTube Playables.
@@ -85,8 +86,8 @@
 - [playcanvas-tween](https://github.com/playcanvas/playcanvas-tween) - Officially supported tween animation plugin.
 - [playcanvas-vue](https://github.com/isobolewski/playcanvas-vue) - A PlayCanvas integration with Vue.js.
 - [@recast-navigation/playcanvas](https://www.npmjs.com/package/@recast-navigation/playcanvas) - NavMesh and Pathfinding using [Recast](https://github.com/recastnavigation/recastnavigation) for PlayCanvas.
-- [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [Sublime Completions](https://github.com/playcanvas/sublime-completions) - Sublime Text Autocompletion for the PlayCanvas API.
+- [tween.js](https://github.com/tweenjs/tween.js/) - Popular JavaScript tweening library that integrates easily with PlayCanvas.
 - [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=playcanvas.playcanvas) - An alternative to the built-in Code Editor.
 
 ## Technical Demos
@@ -169,8 +170,8 @@
 - [Fields of Fury](https://www.kiloo.com/play/fields-of-fury) - Capture the flag set during WW2.
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
-- [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
 - [Simply City](https://simplycity.live) - An open-world multiplayer GTA-like driving game.
+- [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
 - [Simply Up](https://simplyup.io) - Climb to the top of the tower in the shortest time.
 - [Tank Royale](https://tankroyale.io/) - Cartoony fast-paced top-down multiplayer shooter.
 - [TANX](https://tanx.io) - Online multiplayer tank battle game.
@@ -224,8 +225,8 @@
 - [Iconic Nordic Rooms](https://www.inr.se/planera-badrum/planera-badrum-verktyg-3d/) - Shower and sink configurators.
 - [iPhone 6](http://phone.playcanvas.com) - iPhone visualizer.
 - [Montblanc](https://www.montblanc.com/en-us/headphones_cod19971654706731691.html) - Product visualizer for Montblanc pens, watches, wallets and headphones.
-- [Norqain](https://norqain.com/pages/watch-configurator) - Watch configurator.
 - [My Sliding Wardrobe](https://www.myslidingwardrobe.co.uk/design-your-wardrobe/) - Closet configurator.
+- [Norqain](https://norqain.com/pages/watch-configurator) - Watch configurator.
 - [Renewal by Andersen Windows](https://www.renewalbyandersen.com/windows-doors/replacement-windows/double-hung) - Window configurator.
 - [Watch Configurator](https://watch.vz777.com/) - Technical demo from Visionaries777.
 - [WFI](https://configurator.wfi.se/#/?lang=en) - Workstation configurator.
@@ -240,10 +241,10 @@
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
-- [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 - [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
 - [Grace Cathedral](https://vincentwoo.com/3d/grace_cathedral) - Explore the interior and exterior of the famous San Francisco landmark.
+- [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Heritage Expolorer](https://heritageexplorer.org/) - Archive of cultural heritage and other interesting sites.
 - [ImmersiveTech](https://immersivetech.ch/en/) - Creator of bespoke 3DGS-based interactive experiences.
 - [KosmoWorld](https://www.kosmoworld.com/) - Explore and share 3D scenes captured with Hesai's Kosmo.
@@ -262,10 +263,10 @@
 - [Solaya](https://solaya.ai/) - Generate high-fidelity 3D digital twins as the foundation for unlimited visual assets.
 - [Splat Labs](https://www.splatlabs.ai/) - Capture, host and share immersive Gaussian splat digital twins.
 - [Splat3D](https://splat-3d.com/) - Browser-based platform for training and publishing splats.
-- [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
 - [Splatimation](https://splatimation.com/) - Create and publish 3D virtual tours.
-- [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
+- [SplatMart](https://www.splatmart.com/) - Marketplace for buying and selling Gaussian splat scenes and assets.
 - [SplatTour](https://splattour.com/) - Photorealistic 3D tours of any space, generated from a video shot with the user's phone.
+- [Splattr](https://splattr.app) - Create Gaussian splats on the cloud.
 - [Split View Studio](https://splitview.studio/) - Tools for creating interactive 4D timelines.
 - [StorySplat](https://storysplat.com) - Transform your 3D captures into interactive stories.
 - [SuperSplat](https://superspl.at/) - Open source platform for editing and publishing 3D Gaussian Splats.
@@ -278,8 +279,8 @@
 
 ## AR/VR/XR
 
-- [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
 - [Neon Bubblegum](https://www.rtz23.de/) - Demo scene style WebXR-based homepage from Karsten Weil.
+- [Orange Room](https://playcanv.as/p/1ha5glKf/) - A highly realistic interior environment demonstrating room-scale VR.
 - [Raw: Paralympics XR](https://www.phoria.com.au/projects/paralympics-xr/) - Webby 2022 nominated WebXR 360 video experience.
 - [Storage Space 13](https://js13kgames.com/entries/storage-space-13) - Fun VR game and winner of js13k WebXR category.
 - [Trivver](https://awesome.trivver.com) - Shop Smarter in 3D with real-time personalization and analytics.
@@ -288,8 +289,8 @@
 
 ## Generative AI
 
-- [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 - [Ideate](https://ideate.xyz/) - AI-powered 3D art suite on the web.
+- [Snap AI](https://ai.snapchat.com/) - Use AI to create Snapchat Lenses (3D visualization built on PlayCanvas).
 
 ## Blockchain/Crypto/NFT
 
@@ -298,4 +299,4 @@
 
 ## Contributing
 
-Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/master/CONTRIBUTING.md) for details.
+Please see [CONTRIBUTING](https://github.com/playcanvas/awesome-playcanvas/blob/main/CONTRIBUTING.md) for details.
