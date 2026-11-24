@@ -66,6 +66,7 @@
 - [Solar Games Mentorship](https://solargames.io/mentorship/) - Premium PlayCanvas training and mentorship services.
 - [Video Tutorials](https://www.youtube.com/playlist?list=PLy57qL2R3Z6NlBQBEMnjVPT0iz320i4Ko) - YouTube playlist for short PlayCanvas tutorials.
 - [Wavedash](https://docs.wavedash.com/engines/playcanvas) - Learn how to publish your PlayCanvas game on the Wavedash gaming site.
+- [YouTube Playables Template](https://github.com/google/web-game-samples/tree/main/playcanvas) - Starter project for building a PlayCanvas game for YouTube Playables, from Google's official samples.
 
 ## Extensions and Utilities
 
