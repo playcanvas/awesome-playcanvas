@@ -101,22 +101,18 @@
 
 - [Call of Duty: Gunsmith](https://playcanv.as/p/XPWoTZ4F/) - Promotional 3D experience themed on Call of Duty.
 - [Camille World](https://cmworld.io) - Explore 3D worlds and play as puzzles.
-- [Childhood on the Move](https://gallery.familyforeverychild.org/Childhood-on-The-Move/) - Virtual art exhibition from charity Family for Every Child.
 - [Cyber City](https://vz777.com/cybercity/index.html) - Promotional site for Visionaries777.
 - [Da Viking Code's Metaverse](https://metavers.davikingcode.com/) - Explorable 3D project portfolio of a digital agency.
 - [DOOH Invaders](https://vimeo.com/136313614) - World's largest Space Invaders clone unveiled at Cannes Lions.
 - [Fatal System Error](https://playcanv.as/p/A5qC9ftM/?overlay=false) - Interactive opera experience created by Dumbworld from the Royal Opera House.
 - [How Not To Suck At Money](https://hntsam.com/) - Educational game from Invesco about personal finance.
 - [Instant Worlds](https://instantworlds.io/) - Instant, browser-based 3D worlds for brands and audiences to connect in real time.
-- [Life During COVID-19](https://gallery.familyforeverychild.org/) - Virtual art exhibition from charity Family for Every Child.
 - [MMX Racing](https://playcanv.as/p/ika9sdKu/?truck=johncena) - Interactive 3D ad for a popular mobile game.
-- [Party Space](https://www.party.space/) - Virtual events platform.
 - [Pocketverse](https://pocketverse.net/) - Procedurally generated star systems.
 - [Realise](https://gaffen.itch.io/realise) - A video game to accompany the new EP from Hearse Pileup.
 - [Ride Along 2](https://vimeo.com/152996271) - Using WebGL to promote a Hollywood movie release.
 - [Rugby World Cup](https://www.youtube.com/watch?v=onOJBCC8R7A) - Promoting the Rugby World Cup in London's Piccadilly Circus.
 - [Virtual Statues](https://playcanv.as/e/p/cLkf99ZV/) - A digital museum built with 3D Gaussian Splatting.
-- [Wild Rift](https://unlock.wildrift.leagueoflegends.com/) - Solve the puzzle to unlock a League of Legends: Wild Rift character.
 
 ## Games
 
@@ -127,7 +123,6 @@
 - [Build Land](https://poki.com/en/g/build-land) - Grow your island by collecting resources.
 - [Bus Parking 3D](https://play.famobi.com/bus-parking-3d) - Park the bus in the designated space before the timer runs out.
 - [Cannon Balls 3D](https://play.famobi.com/cannon-balls-3d) - Use the cannon to destroy the various structures in this physics-based game.
-- [Car Detailing Master](https://poki.com/en/g/car-detailing-master) - Clean, paint, and polish cars in this satisfying makeover game from Gamebole.
 - [Color Burst 3D](https://gamesnacks.com/games/colorburst3d) - Hit the colored wall matching the ball color.
 - [Color Up](https://elanrastudios.com/games/colorup) - Climb up carefully and stay on the right colored boxes.
 - [Continental Marble Adventure](https://portfolio.redox-interactive.com/en/projects/continental-marble-adventure) - Marble game for Continental's 150th anniversary.
@@ -136,7 +131,6 @@
 - [DeadRise.io](https://poki.com/en/g/deadrise-io) - Fast-paced zombie shooting chaos in your browser.
 - [Disney's Hour of Code - Moana](http://partners.disney.com/hour-of-code) - Learn programming fundamentals with Disney's Moana.
 - [Euro Penalty Cup 2021](https://play.famobi.com/euro-penalty-cup-2021) - Try to hit the goal and outsmart the goalkeeper.
-- [Fishing League](https://poki.com/en/g/fishing-league) - Climb the ranks and become the ultimate angler.
 - [Flappy Bird](https://playcanv.as/p/2OlkUaxF/) - Guide the bird through as many pipes as possible.
 - [Free Kick Football](https://gamesnacks.com/games/freekickfootball) - Curve the ball to score goals.
 - [Full Speed Racing](https://gamesnacks.com/games/fullspeedracing) - Drive as far as you can before the time runs out.
@@ -151,9 +145,6 @@
 - [Mahjong World](https://play.famobi.com/mahjong-world) - 3D Mahjong puzzle game.
 - [Mancala Classic](https://www.crazygames.com/game/mancala-classic) - Strategic board game.
 - [Master Archer](https://playcanv.as/p/JERg21J8/) - Shoot the fruit from the top of Bob's head.
-- [Megopoly](https://playmegopoly.com/) - Free to play casual strategy board game where you invest in virtual property.
-- [Monopoly](https://benbean.tech/monopoly-io/) - The classic board game recreated in a 3D video game.
-- [Nitro Knights](https://gamedistribution.com/games/nitro-knights) - Futuristic jousting game.
 - [Om Nom Run](https://play.famobi.com/om-nom-run) - Endless runner.
 - [Orbital Survival](https://playcanv.as/p/3G3RnfUz/) - Destroy wave after wave of enemies on a tiny world.
 - [Quake](https://github.com/willeastcott/playcanvas-quake) - A port of id Software's Quake to PlayCanvas.
@@ -171,13 +162,9 @@
 ### IO Games
 
 - [99 Nights Online](https://www.crazygames.com/game/99-nights-online) - Multiplayer survival horror coop game.
-- [Animal Obby](https://poki.com/en/g/animal-obby) - Switch between animals with unique abilities to reach the goal.
-- [Bullet Bonanza](https://www.bulletbonanza.io/) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
-- [Fields of Fury](https://www.fieldsoffury.io/) - Capture the flag set during WW2.
-- [GUMMYZ](https://gummyz.fitfuns.com) - Sword-swinging multiplayer combat game.
+- [Bullet Bonanza](https://www.kiloo.com/play/bullet-bonanza) - Fast-paced, high-fidelity, 3D multiplayer FPS game from Kiloo.
+- [Fields of Fury](https://www.kiloo.com/play/fields-of-fury) - Capture the flag set during WW2.
 - [Ink Wars](https://playcanv.as/p/YvyiZeqL/) - Paint faster than your opponents to win the round.
-- [Mini Royale: Nations](https://miniroyale.io/) - Battle Royale first-person shooter.
-- [Robostorm](https://robostorm.io/) - Frenetic online multiplayer mech battle game.
 - [Rollem](https://rollem.io/) - Guide your hamster to the end of the obstacle course in the fastest time.
 - [Simply Prop Hunt](https://simplyprophunt.io) - Fast-paced multiplayer hide-and-seek game with a clever twist.
 - [Simply City](https://simplycity.live) - An open-world multiplayer GTA-like driving game.
@@ -187,7 +174,7 @@
 - [Tribals](https://tribals.io/) - First-person multiplayer survival game.
 - [Venge](https://venge.io/) - 3D multiplayer first-person shooter.
 - [Vortelli's Pizza](https://poki.com/en/g/vortellis-pizza-delivery) - Multiplayer restaurant game.
-- [Warbands](https://www.warbands.io/) - 3D multiplayer first-person shooter.
+- [Warbands](https://www.kiloo.com/play/warbands) - 3D multiplayer first-person shooter.
 - [Wheat Farming](https://poki.com/en/g/wheat-farming) - Multiplayer farming game.
 
 ### Messenger Games
@@ -250,7 +237,6 @@
 - [Crysta](https://crysta.ai/) - Turn your favorite moments into exquisite, full-color 3D keepsakes.
 - [CyArk](https://www.cyark.org/projects/civita-antigravity/overview) - Explore sites of historical significance in 3D.
 - [DiffStudio](https://diffstudio.co) - Create digital twins of e-commerce products.
-- [Doly](https://www.animl.ai/) - Capture high-quality 3D photos of your products and embed them on Shopify in minutes.
 - [GSplat Share](https://gsplat.org/) - Share your splats with optional time-limited and password-protected links.
 - [Echo-2 Viewer](https://spaitial.ai/gallery) - Explore splats created by the world models of SpAItial AI.
 - [Form Chasers](https://formchasers.com/) - A community site for sharing scans of vehicles.
@@ -262,7 +248,6 @@
 - [Mind Studio](https://studio.adnfamily.com/maquette-immersive) - Showcase page showing many examples of 3DGS being used for real estate projects.
 - [Montreal Museum of Fine Arts](https://labs.dpt.co/article-3dgs.html) - Explore 6 rooms at the museum.
 - [NeuralStorm](https://www.neuralstorm.io/) - Neural rendering for high-fidelity product visualization.
-- [Nood](https://nood.co.nz/pages/interactive-lounge) - Furniture retailer.
 - [Old Main](https://www.ryanfellers.com/oldmain/) - The Public Library of Cincinnati's Grand Hall as it appeared in 1900.
 - [Orbify](https://www.orbify.eu/) - Curved-space view for turn-by-turn navigation.
 - [Prewatch](https://www.prewatch.io/) - Smart virtual scouting for better decisions.
@@ -306,7 +291,6 @@
 ## Blockchain/Crypto/NFT
 
 - [Aritelia](https://aritelia.io/) - Open world social MMO with sandbox building and collectable NFTs.
-- [The Crypt](https://www.crypt.art/) - Gallery for rare art and collectibles.
 - [Somnium Space](https://somniumspace.com/parcel/) - Virtual Reality world built on the Ethereum blockchain.
 
 ## Contributing
