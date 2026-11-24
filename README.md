@@ -2,7 +2,7 @@
 
 > <img src="playcanvas-logo.png" align="right" width="100">
 >
-> PlayCanvas is an open source platform for building interactive web content. It's written in JavaScript, HTML5, CSS3 and WebGL.
+> PlayCanvas is an open source platform for building interactive 3D web content, rendering with WebGL 2 or WebGPU.
 >
 > This list is a curated collection of awesome resources, tools, tutorials and projects using the PlayCanvas engine to help developers make _awesome_ games and visualizations.
 >
@@ -35,7 +35,10 @@
 - [PlayCanvas Editor](https://playcanvas.com/) - Browser-based editor for creating 3D web applications.
 - [PlayCanvas React](https://github.com/playcanvas/react) - Open source React wrapper for the PlayCanvas Engine.
 - [PlayCanvas Web Components](https://github.com/playcanvas/web-components) - Open source Web Components wrapper for the PlayCanvas Engine.
-- [Model Viewer](https://playcanvas.com/viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+- [create-playcanvas](https://github.com/playcanvas/create-playcanvas) - CLI that scaffolds a Vite-powered PlayCanvas project with TypeScript.
+- [Model Viewer](https://playcanvas.com/model-viewer) - Open source model viewer for viewing glTF and PLY (3D Gaussian Splats) files.
+- [SuperSplat](https://github.com/playcanvas/supersplat) - Open source editor for 3D Gaussian Splats.
+- [SplatTransform](https://github.com/playcanvas/splat-transform) - Open source CLI tool and library for processing and converting 3D Gaussian Splats.
 - [Texture Tool](https://github.com/playcanvas/texture-tool) - Open source tool for reprojecting textures.
 - [PCUI](https://github.com/playcanvas/pcui) - Open source front-end framework used by the PlayCanvas toolset.
 
